@@ -7,6 +7,8 @@
 // Web site: https://www.it-guy.com
 // ---------------------------- //
 // Copyright © 2024 iT Guy Technologies. All rights reserved.
+/* https://stackoverflow.com/questions/77689616/how-to-create-entity-with-attachment-using-realityview-in-visionos
+ */
 
 
 import SwiftUI
